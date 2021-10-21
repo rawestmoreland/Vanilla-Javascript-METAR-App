@@ -1,3 +1,3 @@
 # METAR App Javascript
 
-A javascript application that gives your metar data
+A javascript application that gives you metar data
